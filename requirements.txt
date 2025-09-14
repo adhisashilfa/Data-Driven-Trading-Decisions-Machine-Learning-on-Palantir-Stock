@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+tensorflow  # for LSTM
+ta          # optional, for technical indicators (we implement manually too)
+streamlit   # optional
+yfinance
